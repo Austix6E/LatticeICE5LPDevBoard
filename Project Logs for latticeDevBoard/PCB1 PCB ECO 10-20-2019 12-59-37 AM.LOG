@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=CREST Pin=TP27-1
+Removed Pin From Net: NetName=CDONE Pin=TP29-1
+Removed Member From Class: ClassName=Sheet1 Member=TP27
+Removed Member From Class: ClassName=Sheet1 Member=TP29
+Added Component: Designator=*(ALogo)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP9(THTP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP10(THTP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CDONE Pin=TP9-1
+Added Pin To Net: NetName=CREST Pin=TP10-1

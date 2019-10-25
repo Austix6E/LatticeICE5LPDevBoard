@@ -1,0 +1,157 @@
+Protel Design System Design Rule Check
+PCB File : F:\Documents\CurrentDevelopment\LatticeDevBoard\latticeDevBoard\PCB1.PcbDoc
+Date     : 10/20/2019
+Time     : 2:29:21 PM
+
+Processing Rule : Clearance Constraint (Gap=0.203mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net 5V0 Between Track (17.78mm,40.405mm)(19.635mm,42.26mm) on Bottom Layer And Pad D4_P31-2(34.65mm,37mm) on Top Layer 
+Rule Violations :1
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.203mm) (Max=2.54mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (InNet('1V2'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Room P1 (Bounding Region = (137mm, 184.25mm, 141mm, 197.25mm) (InComponentClass('P1'))
+Rule Violations :0
+
+Processing Rule : Room P2 (Bounding Region = (141mm, 184.25mm, 145mm, 197.25mm) (InComponentClass('P2'))
+Rule Violations :0
+
+Processing Rule : Room P22 (Bounding Region = (177.5mm, 142mm, 181.5mm, 155mm) (InComponentClass('P22'))
+Rule Violations :0
+
+Processing Rule : Room P21 (Bounding Region = (184.25mm, 148.25mm, 197.25mm, 152.25mm) (InComponentClass('P21'))
+Rule Violations :0
+
+Processing Rule : Room P24 (Bounding Region = (169.5mm, 142mm, 173.5mm, 155mm) (InComponentClass('P24'))
+Rule Violations :0
+
+Processing Rule : Room P23 (Bounding Region = (173.5mm, 142mm, 177.5mm, 155mm) (InComponentClass('P23'))
+Rule Violations :0
+
+Processing Rule : Room P18 (Bounding Region = (184.25mm, 160.25mm, 197.25mm, 164.25mm) (InComponentClass('P18'))
+Rule Violations :0
+
+Processing Rule : Room P33 (Bounding Region = (136mm, 168mm, 149mm, 172mm) (InComponentClass('P33'))
+Rule Violations :0
+
+Processing Rule : Room P20 (Bounding Region = (184.25mm, 152.25mm, 197.25mm, 156.25mm) (InComponentClass('P20'))
+Rule Violations :0
+
+Processing Rule : Room P19 (Bounding Region = (184.25mm, 156.25mm, 197.25mm, 160.25mm) (InComponentClass('P19'))
+Rule Violations :0
+
+Processing Rule : Room P30 (Bounding Region = (145.5mm, 142mm, 149.5mm, 155mm) (InComponentClass('P30'))
+Rule Violations :0
+
+Processing Rule : Room P29 (Bounding Region = (149.5mm, 142mm, 153.5mm, 155mm) (InComponentClass('P29'))
+Rule Violations :0
+
+Processing Rule : Room P32 (Bounding Region = (136mm, 164mm, 149mm, 168mm) (InComponentClass('P32'))
+Rule Violations :0
+
+Processing Rule : Room P31 (Bounding Region = (141.5mm, 142mm, 145.5mm, 155mm) (InComponentClass('P31'))
+Rule Violations :0
+
+Processing Rule : Room P26 (Bounding Region = (161.5mm, 142mm, 165.5mm, 155mm) (InComponentClass('P26'))
+Rule Violations :0
+
+Processing Rule : Room P25 (Bounding Region = (165.5mm, 142mm, 169.5mm, 155mm) (InComponentClass('P25'))
+Rule Violations :0
+
+Processing Rule : Room P28 (Bounding Region = (153.5mm, 142mm, 157.5mm, 155mm) (InComponentClass('P28'))
+Rule Violations :0
+
+Processing Rule : Room P27 (Bounding Region = (157.5mm, 142mm, 161.5mm, 155mm) (InComponentClass('P27'))
+Rule Violations :0
+
+Processing Rule : Room P34 (Bounding Region = (136mm, 172mm, 149mm, 176mm) (InComponentClass('P34'))
+Rule Violations :0
+
+Processing Rule : Room P7 (Bounding Region = (161mm, 184.25mm, 165mm, 197.25mm) (InComponentClass('P7'))
+Rule Violations :0
+
+Processing Rule : Room P6 (Bounding Region = (157mm, 184.25mm, 161mm, 197.25mm) (InComponentClass('P6'))
+Rule Violations :0
+
+Processing Rule : Room P9 (Bounding Region = (169mm, 184.25mm, 173mm, 197.25mm) (InComponentClass('P9'))
+Rule Violations :0
+
+Processing Rule : Room P8 (Bounding Region = (165mm, 184.25mm, 169mm, 197.25mm) (InComponentClass('P8'))
+Rule Violations :0
+
+Processing Rule : Room P4 (Bounding Region = (149mm, 184.25mm, 153mm, 197.25mm) (InComponentClass('P4'))
+Rule Violations :0
+
+Processing Rule : Room P3 (Bounding Region = (145mm, 184.25mm, 149mm, 197.25mm) (InComponentClass('P3'))
+Rule Violations :0
+
+Processing Rule : Room P35 (Bounding Region = (136mm, 176mm, 149mm, 180mm) (InComponentClass('P35'))
+Rule Violations :0
+
+Processing Rule : Room P5 (Bounding Region = (153mm, 184.25mm, 157mm, 197.25mm) (InComponentClass('P5'))
+Rule Violations :0
+
+Processing Rule : Room P15 (Bounding Region = (184.25mm, 172.25mm, 197.25mm, 176.25mm) (InComponentClass('P15'))
+Rule Violations :0
+
+Processing Rule : Room P14 (Bounding Region = (184.25mm, 176.25mm, 197.25mm, 180.25mm) (InComponentClass('P14'))
+Rule Violations :0
+
+Processing Rule : Room P17 (Bounding Region = (184.25mm, 164.25mm, 197.25mm, 168.25mm) (InComponentClass('P17'))
+Rule Violations :0
+
+Processing Rule : Room P16 (Bounding Region = (184.25mm, 168.25mm, 197.25mm, 172.25mm) (InComponentClass('P16'))
+Rule Violations :0
+
+Processing Rule : Room P11 (Bounding Region = (177mm, 184.25mm, 181mm, 197.25mm) (InComponentClass('P11'))
+Rule Violations :0
+
+Processing Rule : Room P10 (Bounding Region = (173mm, 184.25mm, 177mm, 197.25mm) (InComponentClass('P10'))
+Rule Violations :0
+
+Processing Rule : Room P13 (Bounding Region = (184.25mm, 180.25mm, 197.25mm, 184.25mm) (InComponentClass('P13'))
+Rule Violations :0
+
+Processing Rule : Room P12 (Bounding Region = (181mm, 184.25mm, 185mm, 197.25mm) (InComponentClass('P12'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 1
+Waived Violations : 0
+Time Elapsed        : 00:00:00
